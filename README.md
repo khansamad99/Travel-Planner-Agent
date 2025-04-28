@@ -1,4 +1,4 @@
-# ADK-Powered Travel Planner
+# ADK-Travel Planner Agent
 
 A multi-agent travel planning application built with the Google Agent Development Kit (ADK), FastAPI, and Streamlit. This project demonstrates how to orchestrate multiple specialized agents (flights, hotels, activities) to collaboratively plan a trip for a user.
 
